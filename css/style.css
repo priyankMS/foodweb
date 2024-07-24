@@ -16,6 +16,27 @@
 .logo {
   height: 2.2rem;
 }
+/**************************/
+/* sticky */
+/**************************/
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.97);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  bottom: 0;
+  height: 8rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
+.section-hero{
+  margin-top: 8.4rem;
+}
+
 
 /**************************/
 /* NAVIGATION */
